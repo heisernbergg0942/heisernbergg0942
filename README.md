@@ -1,10 +1,14 @@
-# 💫 About Me:
-### Heyy, I'm Leng Suytong! 👋
-I am a passionate **Full-Stack Web Developer** currently focused on building robust backends and dynamic frontends. 
+# 💫 About Me
 
-🚀 **Current Focus:** I'm currently working on a **Quiz Game web application** for my school project, utilizing a Laravel API backend and a React frontend.
+### Hey, I'm Leng Suytong! 👋
+I'm a **Full-Stack Web Developer** passionate about architecting reliable backend services, RESTful APIs, and responsive web applications.
 
-💡 *If you are interested in my work, feel free to check out my repositories!*
+- 🎓 **Education:** Information Technology Engineering student at Royal University of Phnom Penh (RUPP)
+- 🚀 **Currently Building:** Full-stack systems across React, Laravel, and Express.js
+- 🛠️ **Diving Deeper Into:** Linux system administration, Docker containerization, and DevOps workflows
+- 💬 **Ask Me About:** React, Node.js, Laravel, PostgreSQL, and Linux environments
+
+💡 *Check out my repositories below to see what I've been working on!*
 
 ---
 
